@@ -1,0 +1,4 @@
+Intermiate codes: 
+t0=c*d 
+t1=t0 
+c=a/v
